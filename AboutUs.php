@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="meta description">
 
-    <title>About :: Roopdershani Alankar </title>
+    <title>About :: Roopdershani Alankar Sangola </title>
 
 
     <!--=== Favicon ===-->

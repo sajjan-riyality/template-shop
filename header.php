@@ -59,7 +59,7 @@
                             </li>
 
 
-                            <li class="dropdown-show"><a href="single-product.php">products</a>
+                            <li class="dropdown-show"><a href="single-product.php">Our Products</a>
                                 <ul class="mega-menu-wrap dropdown-nav">
                                     <li class="mega-menu-item"><a href="single-product.php"
                                                                   class="mega-item-title">javellary</a>
